@@ -152,7 +152,7 @@ atau kalian juga bisa melakukan registrasi atau daftar untuk akun sendiri
 
 ## Fitur
 
--   Authentication (Masuk atau Daftar akun)
+### Authentication (Masuk atau Daftar akun)
 
     -   Daftar
 
@@ -162,6 +162,18 @@ atau kalian juga bisa melakukan registrasi atau daftar untuk akun sendiri
 
     https://github.com/armandwipangestu/ci-3-template/assets/64394320/0fbaef13-0222-421f-a1b1-43d7f38f5754
 
--   Role User
+### Role User
 
-Pada template repository ini, sudah mempunyai fitur role user
+Pada template ini, memiliki fitur role user. Untuk default atau bawaan terdapat 2 role user, yaitu `Administrator` dan `Member`
+
+![image](https://github.com/armandwipangestu/ci-3-template/assets/64394320/de6f6d5f-990a-4a02-86de-e0d44d07dba3)
+
+### Menu dan Submenu Management
+
+Untuk membuat, mengubah, meghapus `Menu` dan `Submenu` pada template ini sudah disediakan fitur untuk me-manage hal tersebut.
+
+Sehingga sudah tidak usah lagi menyentuh kode untuk menambahkan menu atau submenu pada sidebar
+
+| Menu Management                                                                                                  | Submenu Management                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/armandwipangestu/ci-3-template/assets/64394320/9bbf105f-9466-456f-92a2-7d116d399a70) | ![image](https://github.com/armandwipangestu/ci-3-template/assets/64394320/f1908be1-c64f-4a03-96bb-b7c1d00c9466) |
