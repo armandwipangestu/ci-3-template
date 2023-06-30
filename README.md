@@ -72,6 +72,16 @@ cd ci-3-template
 cp .env.example .env.development
 ```
 
+-   Menambahkan informasi mengenai database di file `.env.development`
+
+```
+DB_HOSTNAME=localhost
+DB_USERNAME=root
+DB_PASSWORD=
+DB_NAME=template
+APP_NAME="Nama Aplikasi"
+```
+
 </details>
 
 <details>
