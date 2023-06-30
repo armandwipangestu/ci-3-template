@@ -9,6 +9,9 @@
 -   [Dependency](#dependency)
 -   [Cara Install](#cara-install)
 -   [Fitur](#fitur)
+    -   [Authentication (Masuk atau Daftar akun)](#authentication-masuk-atau-daftar-akun)
+    -   [Role User](#role-user)
+    -   [Menu dan Submenu Management](#menu-dan-submenu-management)
 
 ## Teknologi Yang Digunakan
 
@@ -154,13 +157,13 @@ atau kalian juga bisa melakukan registrasi atau daftar untuk akun sendiri
 
 ### Authentication (Masuk atau Daftar akun)
 
-    -   Daftar
+-   Daftar
 
-    https://github.com/armandwipangestu/ci-3-template/assets/64394320/1ae60ea8-903a-4978-884e-7e442faf7ed2
+https://github.com/armandwipangestu/ci-3-template/assets/64394320/1ae60ea8-903a-4978-884e-7e442faf7ed2
 
-    -   Masuk
+-   Masuk
 
-    https://github.com/armandwipangestu/ci-3-template/assets/64394320/0fbaef13-0222-421f-a1b1-43d7f38f5754
+https://github.com/armandwipangestu/ci-3-template/assets/64394320/0fbaef13-0222-421f-a1b1-43d7f38f5754
 
 ### Role User
 
