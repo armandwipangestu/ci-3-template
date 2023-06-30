@@ -101,7 +101,7 @@ yarn dist
 
 ![image](https://github.com/armandwipangestu/ci-3-template/assets/64394320/f0012304-6953-44eb-984d-08a0d7075fc7)
 
--   import database dari template repository ini ke dalam phpmyadmin
+-   Import database dari template repository ini ke dalam phpmyadmin
 
 > **Catatan**:
 > File sql nya berada di lokasi `ci-3-template/database/template.sql`
@@ -149,3 +149,19 @@ Passowrd: 123
 atau kalian juga bisa melakukan registrasi atau daftar untuk akun sendiri
 
 </details>
+
+## Fitur
+
+-   Authentication (Masuk atau Daftar akun)
+
+    -   Daftar
+
+    https://github.com/armandwipangestu/ci-3-template/assets/64394320/1ae60ea8-903a-4978-884e-7e442faf7ed2
+
+    -   Masuk
+
+    https://github.com/armandwipangestu/ci-3-template/assets/64394320/0fbaef13-0222-421f-a1b1-43d7f38f5754
+
+-   Role User
+
+Pada template repository ini, sudah mempunyai fitur role user
