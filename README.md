@@ -29,6 +29,7 @@ Template ini dibuat menggunakan beberapa teknologi, diantaranya adalah:
 -   [jQuery Versi 3.3.1](https://blog.jquery.com/2018/01/20/jquery-3-3-1-fixed-dependencies-in-release-tag/)
 -   [Datatables Versi 1.13.4](https://cdn.datatables.net/1.13.4/)
 -   [Sweetalert Versi 11.7.12](https://github.com/sweetalert2/sweetalert2/releases/tag/v11.7.12)
+-   [PHP Dotenv for Codeigniter](https://github.com/agungjk/phpdotenv-for-codeigniter)
 
 ## Dependency
 
