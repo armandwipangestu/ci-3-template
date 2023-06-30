@@ -1,0 +1,44 @@
+.neu-brutalism {
+    /* border-radius: 2px; */
+    border: 2px solid black !important;
+    box-shadow: 0.3rem 0.3rem 0 #222 !important;
+}
+
+.neu-brutalism-border {
+    border: 2px solid black !important;
+}
+
+.neu-brutalism-divider {
+    border: 2px;
+    border-top: 2px solid black !important;
+}
+
+body.sidebar-mini .main-sidebar:after {
+    border-right: 2px solid black !important;
+}
+
+.swal2-popup {
+    border: 2px solid black !important;
+}
+
+.swal2-warning {
+    border-color: #fc544b !important;
+    color: #fc544b !important;
+}
+
+.swal2-html-container {
+    color: black !important;
+}
+
+.swal2-confirm {
+    background-color: #47c363 !important;
+}
+
+.swal2-cancel {
+    background-color: #fc544b !important;
+}
+
+.swal2-styled {
+    border: 2px solid black !important;
+    box-shadow: 0.3rem 0.3rem 0 #222 !important;
+}
