@@ -48,7 +48,7 @@ Template ini dibuat menggunakan beberapa teknologi, diantaranya adalah:
 
 ## Cara Install
 
-<details>
+<details open>
 <summary><strong>Clone atau Download Repository ini</strong></summary>
 
 ```
